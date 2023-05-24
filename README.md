@@ -17,8 +17,9 @@ Saya Anandita Kusumah Mulyadi dengan nim 2101114 mengerjakan Tugas Praktikum 3 D
 - Dalam tabel kategori terdapat category_id(Primary Key), nama_kategori.
 
 ## ALUR PROGRAM
-- Pada tampilan Home terdapat daftar produk yang berisikan nama produk, kategori produk,dan kategori produk.
-- Pada tampilan Home terdapat filter untuk melakukan pengurutan bisa mengurutkan berdasarkan nama produk, nama Supermarket dan nama Kategori secara Ascending.
+- Tampilan Home
+  - terdapat daftar produk yang berisikan nama produk, kategori         produk,dan kategori produk.
+  - Pada tampilan Home terdapat filter untuk melakukan pengurutan bisa mengurutkan berdasarkan nama produk, nama Supermarket dan nama Kategori secara Ascending.
 - Pada tampilan Home jika diklik produknya maka akan menampilkan detail produk nya beserta button ubah data dan hapus data.
 - ketika mengklik hapus data maka data akan dihapus.tetapi ketika mengklik button ubah data akan menampilkan data produk yang dapat diubah oleh user setelah diubah lalu klik tombol submit
 - selanjutnya pada tampilan tambah produk berisikan form seperti berikut:
