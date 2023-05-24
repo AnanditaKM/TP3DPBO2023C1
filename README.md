@@ -45,7 +45,7 @@ Saya Anandita Kusumah Mulyadi dengan nim 2101114 mengerjakan Tugas Praktikum 3 D
 
    - Pada Tampilan Daftar Kategori berisikan sebagai berikut:
       - Form untuk menambahkan Kategori produk
-      - 
+      
         <img width="500" alt="image" src="https://github.com/AnanditaKM/TP3DPBO2023C1/assets/100897554/272d1716-ceb9-425c-9b4d-d073988ef1a9">
      
      - Button 'EDIT' untuk mengubah Kategori produk
@@ -58,7 +58,7 @@ Saya Anandita Kusumah Mulyadi dengan nim 2101114 mengerjakan Tugas Praktikum 3 D
        <img width="500" alt="image" src="https://github.com/AnanditaKM/TP3DPBO2023C1/assets/100897554/f83f42d4-c45a-4534-917e-eefbff4926ad">
 
 - ### Daftar Supermarket
-    <img width="920" alt="image" src="https://github.com/AnanditaKM/TP3DPBO2023C1/assets/100897554/05434a97-8777-4c01-906d-f79f7b3ec629">
+    <img width="500" alt="image" src="https://github.com/AnanditaKM/TP3DPBO2023C1/assets/100897554/05434a97-8777-4c01-906d-f79f7b3ec629">
 
    - Pada Tampilan Daftar Supermarketberisikan sebagai berikut:
      - Form untuk menambahkan Supermarket produk
@@ -72,6 +72,6 @@ Saya Anandita Kusumah Mulyadi dengan nim 2101114 mengerjakan Tugas Praktikum 3 D
 
      - Button 'DELETE' untuk menghapus Supermarket produk
      
-      <img width="500" alt="image" src="https://github.com/AnanditaKM/TP3DPBO2023C1/assets/100897554/8a516ced-a5b0-473b-97e6-2f3b7a134fca">
+       <img width="500" alt="image" src="https://github.com/AnanditaKM/TP3DPBO2023C1/assets/100897554/8a516ced-a5b0-473b-97e6-2f3b7a134fca">
 
 
